@@ -9,10 +9,10 @@
 
 ## 1.文件说明
 ### 主程序 
-+ 天池-蒸汽量预测.ipynb 
++ [天池-蒸汽量预测.ipynb](https://github.com/TR-Wang/TianChi-SteamPredict/blob/main/%E5%A4%A9%E6%B1%A0-%E8%92%B8%E6%B1%BD%E9%87%8F%E9%A2%84%E6%B5%8B.ipynb) 
 + [pytorchtools.py](https://github.com/Bjarten/early-stopping-pytorch) （Early Stopping 程序）
 ### 训练好的网络与预测结果
-TrainedModels_&_Predictions(MSE=0.117)文件夹内含有四个训练好的网络，对 test.txt 中数据分别进行预测后取平均得到 Predictions.txt，线上测试结果 MSE=0.117。
+[TrainedModels_&_Predictions(MSE=0.117)](https://github.com/TR-Wang/TianChi-SteamPredict/tree/main/TrainedModels_%26_Predictions(MSE%3D0.117)) 文件夹内含有四个训练好的网络，对 test.txt 中数据分别进行预测后取平均得到 Predictions.txt，线上测试结果 MSE=0.117。
 
 ## 2.模型说明
 ### 特征选择
